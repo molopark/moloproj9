@@ -1,3 +1,10 @@
+# vscode 에서 spring boot 이용, git 으로 소스관리 등을 목적으로 프로젝트를 복사 이용한다.
+
+
+
+
+아래 내용은 원소스의 내용임.
+
 ## Elasticsearch 예제 ##
 본 샘플은  검색엔진 Elasticsearch용 예제로,
 
