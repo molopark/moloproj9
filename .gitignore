@@ -1,3 +1,7 @@
+.checkstyle
+.classpath
+.factorypath
+.project
 *.class
 *.log
 target/
